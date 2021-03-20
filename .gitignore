@@ -1,0 +1,13 @@
+# Custom Ignores
+cred.txt
+venv
+terraform/.terraform*
+terraform/*.zip
+**/.coverage
+terraform/terraform.tfstate
+terraform/terraform.tfstate.backup
+
+#Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
